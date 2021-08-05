@@ -27,6 +27,7 @@ Exoplanet-Exploration
 |
 |__ images/
 |     |__ exoplanets.jpg
+|     |__ pythonlogo.png
 |
 |__ model_1.ipynb              # Data Modeling jupyter notebook file
 |__ gitignore file
