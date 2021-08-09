@@ -24,16 +24,21 @@ predict scores.
  
 Exoplanet-Exploration
 |
-|__data/                            # Directory for the data files
+|__data/                                    # Directory for the data files
 |     |__ exoplanet_data.csv
 |
 |__ images/
 |     |__ exoplanets.jpg
 |     |__ pythonlogo.png
+|     |__ RandomForestClasificationReport.png
 |
-|__ model_1.ipynb              # Data Modeling jupyter notebook file
+|__ LogesticRegression_model.ipynb             # LR model notebook file
+|__ RandomForest_model.ipynb                   # RF model notebook file
+|__ knn_model.ipynb                            # KNN model notebook file
+|__ svc_model.ipynb                            # SVM model notebook file
+|__ tree_model.ipynb                           # TREE model notebook file
 |__ gitignore file
-|__ README.md                       # read me file
+|__ README.md                                  # read me file
                    
 
 ```
