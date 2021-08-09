@@ -18,6 +18,7 @@ The NASA Kepler space telescope has been out on a planet-hunting mission to disc
 outside of our solar system. This data collected for over nine years of period is being used to process and
 predict scores. 
 
+In this project, the goal is to find an optimized machine learning model to discover hidden planets outside of our solar system using Exoplanet Exploration dataset.
 
 ## Structure
 ```
