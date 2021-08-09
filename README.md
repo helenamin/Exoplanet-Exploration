@@ -1,6 +1,6 @@
 # Exoplanet-Exploration
 
-![planets View](images/exoplanets.jpg)
+![planets View](Images/exoplanets.jpg)
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ After comparing all the models, it looks like Random Forest Classifier gives the
 In Exoplanet-Exploration senario, the percision is more important than the recall and looking at the report below, the precision rate(0.84) is greater than recall rate (0.79 ).
 
 
-![Random Forest Clasification Report](images/RandomForestClasificationReport.png)
+![Random Forest Clasification Report](Images/RandomForestClasificationReport.png)
 
 ## Contributors
 
@@ -68,4 +68,4 @@ In Exoplanet-Exploration senario, the percision is more important than the recal
 
 ## Technology
 
-- ![PythonLogo](images/pythonlogo.png)
+- ![PythonLogo](Images/pythonlogo.png)
