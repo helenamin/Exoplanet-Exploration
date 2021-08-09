@@ -60,7 +60,7 @@ The best optimized model has been saved as "Helen.sav" file
 ### Comparison
 After comparing all the models, it looks like Random Forest Classifier gives the best Accuracy Score.
 
-| Model | Logistic Regression optimized with GridSearch | Decision Tree optimized with GridSearch | Random Forest optimized with GridSearch | K-Nearest Neighbours optimized with GridSearch | SVM optimized with GridSearch |
+| Model | Logistic Regression optimized by GridSearch | Decision Tree optimized by GridSearch | Random Forest optimized by GridSearch | K-Nearest Neighbours optimized by GridSearch | SVM optimized by GridSearch |
 |-|-|-|-|-|-|
 | Training Data Score | 0.825 | 0.890 | 1.0 | 0.822 | 0.824 |
 | Testing Data Score | 0.810 | 0.882 | 0.909 | 0.798 | 0.805 |
