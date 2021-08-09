@@ -32,13 +32,14 @@ Exoplanet-Exploration
 |     |__ pythonlogo.png
 |     |__ RandomForestClasificationReport.png
 |
-|__ LogesticRegression_model.ipynb             # LR model notebook file
-|__ RandomForest_model.ipynb                   # RF model notebook file
-|__ knn_model.ipynb                            # KNN model notebook file
-|__ svc_model.ipynb                            # SVM model notebook file
-|__ tree_model.ipynb                           # TREE model notebook file
+|__ LogesticRegression_model.ipynb          # LR model notebook file
+|__ RandomForest_model.ipynb                # RF model notebook file
+|__ knn_model.ipynb                         # KNN model notebook file
+|__ svc_model.ipynb                         # SVM model notebook file
+|__ tree_model.ipynb                        # TREE model notebook file
 |__ gitignore file
-|__ README.md                                  # read me file
+|__ README.md                               # read me file
+|__ helen.sav                               # The best (RF_Grid model)Saved 
                    
 
 ```
@@ -50,6 +51,8 @@ rows. Then the data was scaled using MinMaxScaler followed by splitting the data
 data to create a machine learning model. 
 
 The models created are Logistic Regression, K-Nearest Neighbours, Support Vector Machine, Decision Tree Classifier and Random Forest Classifier. The use of GridSearch improved the accuracy of all model.
+
+The best optimized model has been saved as "Helen.sav" file
 
 ## Analysis
 
