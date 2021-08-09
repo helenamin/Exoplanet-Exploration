@@ -60,10 +60,10 @@ The best optimized model has been saved as "Helen.sav" file
 ### Comparison
 After comparing all the models, it looks like Random Forest Classifier gives the best Accuracy Score.
 
-| Logistic Regression optimized with GridSearch Score | Decision Tree optimized with GridSearch scores | Random Forest optimized with GridSearch scores | K-Nearest Neighbours optimized with GridSearch scores | SVM optimized with GridSearch scores |
-|-|-|-|-|-|
-| Training Data Score: 0.825 | Training Data Score: 0.890 | Training Data Score: 1.0 | Training Data Score: 0.822 | Training Data Score: 0.824 |
-| Testing Data Score: 0.810 | Testing Data Score: 0.882 | Testing Data Score: 0.909 | Testing Data Score: 0.798 |Testing Data Score: 0.805 |
+| Model | Logistic Regression optimized with GridSearch Score | Decision Tree optimized with GridSearch scores | Random Forest optimized with GridSearch scores | K-Nearest Neighbours optimized with GridSearch scores | SVM optimized with GridSearch scores |
+|-|-|-|-|-|-|
+| Training Data Score | 0.825 | 0.890 | 1.0 | 0.822 | 0.824 |
+| Testing Data Score | 0.810 | 0.882 | 0.909 | 0.798 | 0.805 |
 
 ### Random Forest Clasification Report (optimized by GridSearch)
 In Exoplanet-Exploration senario, the percision is more important than the recall and looking at the report below, the precision rate(0.84) is greater than recall rate (0.79 ).
